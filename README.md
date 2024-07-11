@@ -77,7 +77,7 @@ resource "yandex_kms_symmetric_key" "secret-key" {
 
 ![img_3](IMG/img_3.png)
 
-Создаю новый бакет загружаю в него индексную страницу:
+Создаю новый бакет, загружаю в него индексную страницу:
 
 ![img_4](IMG/img_4.png)
 
